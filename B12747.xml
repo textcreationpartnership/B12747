@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas at a parliament holden at Westminster in the fift yeere of King Richard the second, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12747</idno><idno type="EEBO-CITATION">99892010</idno>
+  <idno type="VID">187169</idno>
+  <idno type="EEBO-PROQUEST">2240909448</idno>
+  
+            <idno type="STC">STC 8401</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[73]</idno>
+            <idno type="PROQUEST">ocm99892010</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892010e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187169)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas at a parliament holden at Westminster in the fift yeere of King Richard the second, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Requiring licence from the King or Privy Council for all who travel abroad except merchants, etc.; forbidding export of gold and silver.</note>
+                  <note>Dated at end: Westminster the ninth day of Iuly, in the fifth yeere of our reigne ... .</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Freedom of movement --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187169:1"/>
+            <head>❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas at a Parliament holden at Westminster</hi> in the fift yeere of King <hi>Richard</hi> the second, the King defended the passage vtterly of all maner of people, aswell Clearks as others in euery port, and other Towne and place vpon the coast of the Sea, vpon paine of forfeiture of all their goods, except onely the Lords and other great men of the Realme, and true and notable Mer<g ref="char:EOLhyphen"/>chants, and the Kings Souldiers; And further prohibited diuers other things vpon paine that the offenders should forfeit, as much as they might forfeit, as by the said Act appeareth: which Statute was seldome or neuer (especially of late) put in execu<g ref="char:EOLhyphen"/>tion, for that it was in some cases too rigorous, in others very darke and obscure, and now, for<g ref="char:EOLhyphen"/>asmuch as concerneth the passage of the English Subiects into the kingdome of Scotland, become voyd and extinct in respect of the happy Vnion of both Kingdomes vnder one Soue<g ref="char:EOLhyphen"/>raigne: His most Excellent Maiestie (preferring alwayes the tranquilitie of his louing Sub<g ref="char:EOLhyphen"/>iects, before such and so great aduantage as he might reape by recouery of such penalties) hath not onely suffered that particular branch of the Statute aforesaid to fall to the ground, (the continuation whereof were both vniust, and an apparant marke of separation) but hath bene content, besides that particular clause which was included in the Acte passed at the last Ses<g ref="char:EOLhyphen"/>sion of Parliament, for abolishing of Hostilitie, and the memory of all things that depend thereon, to assent (in fauour of the Subiect) to repeale the whole Statute it selfe of <hi>Richard</hi> the second. And yet his Maiestie (whose care doeth euer watch ouer the weale of his Subiects) considering that the principall duetie and allegiance of all his Subiects, doeth chiefly consist to attend at all times the seruice and defence of their natural Liege Lord, and of their deare and natiue Countrey, with all cheerefull readinesse and alacritie, either within the Realme, or without, when they shall be thereunto required: And foreseeing in his Princely prouidence and wisedome what danger (especially in these dangerous dayes) might insue to the whole State, if his Subiects might at their pleasure passe and depart out of this Realme into the Kingdomes, Countreys, Dominions and Territories of forreine Kings, Princes, States and Potentates, hath vpon mature deliberation prouided remedy for the preuention of such mischiefe as might follow thereupon: And therefore his Maiesty doeth (accor<g ref="char:EOLhyphen"/>ding to his Maiesties Lawes and the resolution of his Iudges, with whom consulta<g ref="char:EOLhyphen"/>tion hath beene had, and agreeable to diuers Presidents in the reignes of King <hi>Edward</hi> the first, and King <hi>Edward</hi> the thirde (two most prudent and renowmed Kings) and o<g ref="char:EOLhyphen"/>ther of his noble Progenitours before the making of the sayd late Acte by these presents with the aduice of his Priuie Councell,) straightly prohibite and forbid all maner of persons be<g ref="char:EOLhyphen"/>ing naturall borne Subiects of this Realme, or any of the Dominions of the same, of what estate or degree soeuer they bee, that they or any of them (other then such persons as were excepted in and by the sayd Acte, and other then Souldiers, Merchants, Mari<g ref="char:EOLhyphen"/>ners, and their Factors and Apprentices) shall not any time hereafter without speciall licence of his Maiesty, or of any foure or more of his Priuie Councell (whereof the Principall Secre<g ref="char:EOLhyphen"/>tary for the time being to be one) passe or depart out of this Realme of England, or any of the
+<pb facs="tcp:187169:2"/>dominions of the same, into the Kingdomes, Countreyes, Territories or Dominions of any forreine King, Prince, State, or Potentate, vpon such corporall and other great and heauy paines and penalties as by our Lawes may be inflicted vpon such as shall offend therein, for their so heinous and vnnaturall offences against their naturall Liege Lord and Countrey in that behalfe.</p>
+            <p>Prouided alwayes, that if any of the persons before excepted, shall after his departure out of this Realme, doe, commit, put in vre, attempt, or assent vnto any Act, deuice, plot, or thing against his most Excellent Maiesty, or any of his Kingdomes or Dominions, or against any of his Lawes or Statutes, that euery such person so offending, shall lose the benefite of the sayd exception, and shall to all intents and purposes be taken and adiudged to bee as one that maliciously and contemptuously passeth or departeth out of this Realme contrary to the te<g ref="char:EOLhyphen"/>nor and effect of these Presents.</p>
+            <p>And whereas by errour and vulgar opinion it is conceiued and giuen out by some, That all men at this present be at liberty to transport and carrie out of this Realme any Golde or Siluer in Coyne, Iewels, Bullion, Plate, or Vessell, His Maiestie vnderstanding thereof, caused the Iudges of the Realme to be consulted withall in that poynt; who vpon due consi<g ref="char:EOLhyphen"/>deration and conference had amongst them, haue with one consent resolued, that the trans<g ref="char:EOLhyphen"/>portation of all manner of Golde and Siluer in Coyne, Iewels, Bullion, Plate or Vessell is absolutely prohibited and forbidden as well by the Statutes in the twentieth yeere of King <hi>Edward</hi> the first, in the ninth yeere of King <hi>Edward</hi> the third, and in the second yeere of King <hi>Henry</hi> the sixt, as by diuers other Statutes vpon great and grieuous penalties and for<g ref="char:EOLhyphen"/>feitures. Vpon signification of which resolution, his most excellent Maiestie, to the intent that none of his louing Subiects through any erroneous conceit or opinion might be deceiued and indammaged, hath in his Princely clemencie caused aswell the sayd resolution of his Iud<g ref="char:EOLhyphen"/>ges, as the Statutes themselues to be particularized and published for the safety of his louing Subiects: And further doeth by these Presents straightly charge and command that all the sayd Lawes and Statutes concerning Transportation of Golde or Siluer bee firmely hol<g ref="char:EOLhyphen"/>den, and kept and put in due execution. And doth further prohibit and forbid all and all maner of persons whatsoeuer, to cary or transport out of this Realme any Gold or Siluer in Coyne, Iewels, Bullion, Plate, or Vessell, contrary to any of the said Lawes or Statutes, as they will answere the contrary at their vttermost perill.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Palace of Westminster <date>the ninth day of Iuly, in the fifth yeere of our Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. ANNO DOM. 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
